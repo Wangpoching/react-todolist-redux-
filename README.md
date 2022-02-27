@@ -1,9 +1,11 @@
-# Lazy Contest
-**新拖延運動官網**
+# To Do List
+**備忘錄**
 
-你知道拖延可以拯救世界嗎? 盡快動動手指組團報名比賽，有辦法睡最久的團隊可以獲得頂級羽絨被與高額獎金!
+每天總是忘東忘西的嗎? 比如說媽媽交代要去超市買青蔥跟香菇踏出門確立馬忘記怎麼辦?
 
-[即刻報名](http://13.59.36.215/lazy/form.php)
+別害怕! 這款備忘錄專門拯救健忘的你~
+
+[馬上拯救健忘的你 >](https://wangpoching.github.io/react-todolist-redux-/)
 
 ## Feature amd Screenshot
 
@@ -18,8 +20,7 @@
 * 統計未完成代辦事項數量
 * session storage 自動儲存功能
 
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main01.png" width="300" align=center/>
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main02.png" width="300" align=center/>
+<img src="https://github.com/Wangpoching/react-todolist-redux-/blob/master/src/images/screenshots/main.png" width="300" align=center/>
 
 ## Contacts
 
