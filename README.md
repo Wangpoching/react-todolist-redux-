@@ -21,11 +21,6 @@
 <img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main01.png" width="300" align=center/>
 <img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main02.png" width="300" align=center/>
 
-* 報名表單
-  * 表單驗證功能
-
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_form.png" width="300" align=center/>
-
 ## Contacts
 
 Poching Wang
